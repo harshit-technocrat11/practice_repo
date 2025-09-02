@@ -15,3 +15,9 @@ function addFeat3(){
 function addFeat4(){
     console.log(4);
 }
+
+
+//another one
+function addFeat5(){
+    console.log(5);
+}
