@@ -6,3 +6,6 @@ function addFeat1(){
 function addFeat2(){
     console.log(2);
 }
+function addFeat3(){
+    console.log(3);
+}
