@@ -9,3 +9,9 @@ function addFeat2(){
 function addFeat3(){
     console.log(3);
 }
+
+//example of git stashing ---- 
+
+function addFeat4(){
+    console.log(4);
+}
